@@ -38,7 +38,7 @@ Install all libraries:
 
 ## 🖥️ Screenshots
 
-### 🏠 Home Screen
+### 🏠 Model Training
 ![Home Screen](screenshots/model_training.png)
 
 ### 🚨 Spam Detected
