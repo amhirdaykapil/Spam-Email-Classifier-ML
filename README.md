@@ -36,6 +36,19 @@ Install all libraries:
 
 ---
 
+## 🖥️ Screenshots
+
+### 🏠 Home Screen
+![Home Screen](screenshots/app_home.png)
+
+### 🚨 Spam Detected
+![Spam Detected](screenshots/spam_detected.png)
+
+### ✅ Not Spam
+![Not Spam](screenshots/not_spam.png)
+
+---
+
 ## 🖥 How To Run
     1. Train the Model
         python spam_classifier.py
