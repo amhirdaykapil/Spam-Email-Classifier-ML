@@ -16,12 +16,12 @@ It uses **TF-IDF vectorization** with **SVM (Support Vector Machine)** for class
 
 ## 📂 Project Structure
 spam-email-classifier/
-├── dataset/            # Dataset (email_spam.csv)
-├── saved_model/        # Trained model (spam_model.pkl)
-├── spam_classifier.py  # Train and save model
-├── app.py              # Streamlit web app
-├── requirements.txt    # Python libraries
-└── README.md           # Project overview
+├── dataset/            # Dataset (email_spam.csv)<br>
+├── saved_model/        # Trained model (spam_model.pkl)<br>
+├── spam_classifier.py  # Train and save model<br>
+├── app.py              # Streamlit web app<br>
+├── requirements.txt    # Python libraries<br>
+└── README.md           # Project overview<br>
 
 ---
 
