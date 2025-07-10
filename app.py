@@ -17,4 +17,4 @@ if st.button("Check"):
         result = "**SPAM**" if prediction == 1 else "**NOT SPAM**"
         st.subheader(result)
     else:
-        st.warning("⚠Please enter email content.")
+        st.warning("Please enter email content.")
