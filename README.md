@@ -15,7 +15,7 @@ It uses **TF-IDF vectorization** with **SVM (Support Vector Machine)** for class
 ---
 
 ## 📂 Project Structure
-spam-email-classifier/
+spam-email-classifier/<br>
 ├── dataset/            # Dataset (email_spam.csv)<br>
 ├── saved_model/        # Trained model (spam_model.pkl)<br>
 ├── spam_classifier.py  # Train and save model<br>
