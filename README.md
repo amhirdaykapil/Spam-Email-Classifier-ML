@@ -39,10 +39,10 @@ Install all libraries:
 ## 🖥️ Screenshots
 
 ### 🏠 Home Screen
-![Home Screen](screenshots/app_home.png)
+![Home Screen](screenshots/model_training.png)
 
 ### 🚨 Spam Detected
-![Spam Detected](screenshots/spam_detected.png)
+![Spam Detected](screenshots/spam.png)
 
 ### ✅ Not Spam
 ![Not Spam](screenshots/not_spam.png)
